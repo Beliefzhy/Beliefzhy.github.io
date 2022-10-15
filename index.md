@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-[Motto](https://github.com/jitinnair1/gradfolio){:target="_blank"} We are all in the gutter，but some of us are looking at the stars.So I just want to  express hope by some star and someone's passion by the radiance of the setting sun.
+[Motto](https://github.com/jitinnair1/gradfolio){:target="_blank"}:   We are all in the gutter，but some of us are looking at the stars.So I just want to express hope by some star and someone's passion by the radiance of the setting sun.
 
 ### Penchant and interests :
 
