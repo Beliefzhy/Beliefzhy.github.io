@@ -26,6 +26,12 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Huanyu\Desktop\Beliefzhy.github.io\assets\images" />
+      <recent name="C:\Users\Huanyu\Desktop\Beliefzhy.github.io\assets\images\.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -34,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666145806116</updated>
-      <workItem from="1666145809034" duration="307000" />
+      <workItem from="1666145809034" duration="918000" />
     </task>
     <servers />
   </component>
